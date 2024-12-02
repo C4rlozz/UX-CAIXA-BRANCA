@@ -2,7 +2,7 @@
 
 Este projeto implementa um sistema básico de autenticação de usuários usando Java e MySQL. Ele inclui uma classe principal, `User`, que gerencia a conexão com o banco de dados e valida as credenciais fornecidas.
 
----
+----
 
 ## 📂 Estrutura do Projeto
 
