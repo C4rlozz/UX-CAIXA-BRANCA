@@ -50,4 +50,4 @@ Certifique-se de ajustar essas configurações para refletir o seu ambiente.
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/ogiovannibr/UXCaixaBranca
+   git clone [https://github.com/C4rlozz/UX-CAIXA-BRANCA]
