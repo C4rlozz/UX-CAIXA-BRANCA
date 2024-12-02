@@ -1,6 +1,6 @@
 package login;  // 1. Especifica o pacote em que o código está localizado
 
-// 2. Inclui as bibliotecas necessárias para trabalhar com banco de dados
+// 2. Inclui as bibliotecas necessárias para trabalhar com o banco de dados
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.ResultSet;
