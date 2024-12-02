@@ -7,7 +7,7 @@ import java.sql.Statement;
 
 /**
  * A classe {@code User} é usada para autenticar usuários com base em dados armazenados
- * em um banco MySQL. Ela gerencia conexões e valida credenciais.
+ * em um banco MySQL. Ela gerencia conexões e valida as credenciais.
  */
 public class User {
 
